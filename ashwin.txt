@@ -6,3 +6,5 @@ Adding the fifth tile - Hello Dadar
 Adding the third title - Hello India
 Adding the fourth title - Hello Andheri
 Adding the fifth tile - Hello Bandra
+Adding the sixth title - Hello Thane
+Adding the seventh title - Hello Mulund
